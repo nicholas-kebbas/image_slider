@@ -1,4 +1,4 @@
 image_slider
 ============
 
-Image Comparison Slider
+Fun JS image slider project
